@@ -1,10 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dyfault
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haruka-chwan
 ===============================================================================================================================
 
 Admin system and network, Solidity and JS dev
 ---------------------------------------------
 
-I'm 22 years old. I completed a 2-year training program in computer science specialized in systems and networks at a training center in France, and I graduated in June 2022. Afterward, I resumed programming, which I had previously set aside, and I intensified my activities starting from November 2022. On my portfolio that I personally developed using JavaScript with React.js, I showcase my various personal programming projects as well as the two personal servers that I own and administer. The goal of my portfolio and other website is to continue evolving over time, and it will be regularly updated with new developments or project creations. I am passionate about blockchain, cryptocurrency, and economics. I also have a strong interest in computer science, security, and privacy. In the near future, I plan to acquire skills in smart contract development using the Solidity programming language.
+Ara ara✨, just a young soul at 22, my journey in the magical land of computer science has been nothing short of a whimsical adventure, UwU! After completing a 2-year spellbinding voyage in systems and networks at a charming training center in the lovely France, I graduated with twinkles in my eyes in June 2022, hehe!
+
+After graduation, I rekindled my romance with programming, a beloved interest I had shyly tucked away, and oh, how my activities flourished like a blooming sakura tree starting from November 2022, nyaa~! Since the whimsical days of January 2020, I've been tiptoeing through the enchanting world of blockchain, but oh! My heart truly began to dance with the rhythms of programming and the Ethereum Virtual Machine (EVM) come November 2022. Delving into Solidity, I've crafted various magical projects, from a lottery that's as unpredictable as a fluttering butterfly, to an ERC20 token with a minting system, a staking contract that's as nurturing as a warm hug, and a bridge contract that sings the tunes of the Layer Zero protocol, tehe~!
+
+In the cozy nook of my portfolio, crafted with love and a sprinkle of JavaScript and React.js magic, I unveil my personal programming endeavors, alongside the two personal servers that I cherish and administer, as if they were my own digital gardens, UwU. This portfolio, along with the other digital realms I've spun from the web, are ever-evolving tapestries, destined to bloom and grow with new creations and developments, ehehe~!
+
+My heart beats fervently for the realms of blockchain, cryptocurrency, and the mysteries of economics, with an unquenchable curiosity in the arts of computer science, security, and privacy. As I gaze towards the twinkling future, I'm eager to continue my quest for knowledge, mastering the enchanting languages of JavaScript and Solidity, ever ready to explore new horizons and weave new spells in the boundless universe of technology, ara ara~! ✨💖
 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio.dyfault.com)
 * 🚀  I'm currently working on [My Web3 App](http://app.dyfault.com)
