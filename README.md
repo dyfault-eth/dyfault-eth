@@ -33,6 +33,6 @@ You can find more of my projects on [my portfolio](http://portfolio.dyfault.com)
 
 ### 📊 GitHub Stats
 
-![Oka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyfault-eth&show_icons=true&theme=radical)
+![Oka's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyfault-eth&show_icons=true&theme=radical&v=1)
 
 <br/>
